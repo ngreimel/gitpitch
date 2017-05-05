@@ -1,20 +1,28 @@
-## The Kitchen Sink
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+## Backstage
+##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Local Art</span> Discovery Tool</span>
 
 ---
 
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+## What?
+Backstage is a tool to help discover local artists near you
 
 ---
 
-## Tip!
-For best viewing experience press **F** key to go fullscreen.
+## Why?
+There are literally 1,000s of artists around you right now&#42;. 
+<span style="font-size:0.6em;">&#42;Unless you live in Wyoming</span>
+
++++
+
+#### But
+They aren't always easy to find.
+- What is their influence?
+- How much do you invest in searching for local artists?
+- What about all the noise?
 
 ---
 
-## Markdown Slides
+## 
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
 
