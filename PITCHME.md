@@ -14,26 +14,53 @@ There are literally 1,000s of artists around you right now&#42;.
 
 +++
 
-#### But ... They aren't always easy to find
+#### But ...
+#### They aren't always easy to find
 - What is their influence?
 - How much do you invest in searching for local artists?
 - Some third thing that causes problems
 
 ---
 
-## 
-<span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
-
+## How?
 
 +++
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
+#### Geolocation
 
 <br>
 
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+Effortlessly find venues / events near you. Optionally, search for locations you'll be in the future (planning a night out)
+
+<br>
+
+Defaults to finding events within X miles
+
++++
+
+![Image-Absolute](backstage.png)
+
++++
+
+#### Artist Profiles
+
+<br>
+
+- Short bio / profile pic
+- iTunes store (affiliate links)
+- Youtube links / videos
+- Keep track of your favorites and get notified when they're playing near you
+
++++
+
+#### Venue Profiles
+
+<br>
+
+- Short bio / profile pic
+- Calendar of events
+- Specials
+- History (Who was that last night?)
 
 ---
 
