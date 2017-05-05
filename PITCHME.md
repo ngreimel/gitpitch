@@ -14,11 +14,10 @@ There are literally 1,000s of artists around you right now&#42;.
 
 +++
 
-#### But
-They aren't always easy to find.
+#### But ... They aren't always easy to find
 - What is their influence?
 - How much do you invest in searching for local artists?
-- What about all the noise?
+- Some third thing that causes problems
 
 ---
 
