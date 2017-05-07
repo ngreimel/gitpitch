@@ -3,13 +3,31 @@
 
 ---
 
+## 1. One Sentence Summary
+
++++
+
 ## What?
-Backstage is a tool to help discover local artists near you
+Backstage is a tool to discover local artists near you.
+
++++
+
+## What?
+Backstage helps connect local artists to their community.
+
++++
+
+## What?
+Find great music in your own backyard.
 
 ---
 
+## Motivation
+
++++
+
 ## Why?
-There are literally 1,000s of artists around you right now&#42;. 
+There are literally 1,000s of artists around you right now&#42;.  
 <span style="font-size:0.6em;">&#42;Unless you live in Wyoming</span>
 
 +++
@@ -18,7 +36,9 @@ There are literally 1,000s of artists around you right now&#42;.
 #### They aren't always easy to find
 - What is their influence?
 - How much do you invest in searching for local artists?
-- Some third thing that causes problems
+- Artists aren't marketers, but they want an audience
+- People want to "discover" someone, and to try new things/places
+- People also love the familiar, and want something easy, not too far away 
 
 ---
 
